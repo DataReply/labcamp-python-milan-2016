@@ -1,12 +1,20 @@
 
 # README
-### Details
+##  Introduction to Python and Image Classification:
+Python and Classification Labcamp - Milano, 25/05/2016
+
+Alex Loosley, "Moosley" (a.loosley@reply.de)
+<br>Alex Salles, "Sales" (a.salles@reply.de)
+
+## Syllabus:
+Here you will find details about the lab camp Sales and I hosted in Milano, May 25, 2016.
+
 #### Technical Requirements: 
 Students will use Jupyter Notebooks hosted on a gcloud instance.  Therefore, students will only need a modern web-browser (e.g. chrome) and a stable internet connection.
 #### Preparation:
 Take 30 minutes ahead of the class to learn python syntax basics at an interactive learn to program site like CodeAcademy (https://www.codecademy.com/learn/python)
 #### Number of Participants:
-form 10 to 30 Replyers (no contractor, no collaborator).
+from 10 to 30 Replyers (no contractor, no collaborator).
 Registration: participation open, upon registration.
 #### Date: 
 May 25, 2016
